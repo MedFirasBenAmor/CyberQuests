@@ -23,8 +23,8 @@ const locationCards = [
   {
     icon: Clock,
     title: "Start Time",
-    value: "18:00",
-    subtitle: "Registration opens 17:30",
+    value: "20:00",
+    subtitle: "Check in opens 20h",
     color: "text-green-400",
     bgColor: "bg-green-400/10",
   },

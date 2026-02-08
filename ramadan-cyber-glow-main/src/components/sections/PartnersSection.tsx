@@ -10,7 +10,7 @@ const partners = [
     icon: Building,
   },
   {
-    name: "SecuriNet FST",
+    name: "SecuriNets FST",
     description: "Technical Team",
     icon: Users,
   },
